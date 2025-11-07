@@ -48,7 +48,8 @@
         width: 200px;
         height: 200px;
         background: pink;
-        background-image: url(Myimage.jpg);
+        background-image: url(assets/Myimage.jpg);
         background-size: cover;
         opacity: 50%;
+
       }
